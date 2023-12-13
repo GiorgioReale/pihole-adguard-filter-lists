@@ -1,0 +1,89 @@
+filters:
+  - enabled: true
+    url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+    name: AdGuard DNS filter
+    id: 1
+  - enabled: true
+    url: https://adaway.org/hosts.txt
+    name: AdAway Default Blocklist
+    id: 2
+  - enabled: true
+    url: https://someonewhocares.org/hosts/zero/hosts
+    name: Dan Pollock's List
+    id: 1667053213
+  - enabled: true
+    url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+    name: Game Console Adblock List
+    id: 1667053214
+  - enabled: true
+    url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+    name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
+    id: 1667053215
+  - enabled: true
+    url: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+    name: Peter Lowe's List
+    id: 1667053216
+  - enabled: true
+    url: https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+    name: Scam Blocklist by DurableNapkin
+    id: 1667053217
+  - enabled: true
+    url: https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+    name: NoCoin Filter List
+    id: 1667053218
+  - enabled: true
+    url: https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
+    name: Online Malicious URL Blocklist
+    id: 1667053219
+  - enabled: true
+    url: https://filtri-dns.ga/filtri.txt
+name: 'ITA: Filtri-DNS'
+    id: 1667053222
+  - enabled: true
+    url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+    name: Dandelion Sprout's Anti-Malware List
+    id: 1667053223
+  - enabled: true
+    url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+    name: WindowsSpyBlocker - Hosts spy rules
+    id: 1667053224
+  - enabled: true
+    url: https://abp.oisd.nl/basic/
+    name: OISD Blocklist Basic
+    id: 1667053225
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+    name: Phishing URL Blocklist (PhishTank and OpenPhish)
+    id: 1677587788
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+    name: Malicious URL Blocklist (URLHaus)
+    id: 1677587789
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt
+    name: Stalkerware Indicators List
+    id: 1677587790
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+    name: The Big List of Hacked Malware Web Sites
+    id: 1677587791
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt
+    name: NoCoin Filter List
+    id: 1677587792
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt
+    name: Steven Black's List
+    id: 1677587793
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt
+    name: OISD Blocklist Full
+    id: 1677587794
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt
+    name: Dandelion Sprout's Game Console Adblock List
+    id: 1677587795
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
+    name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
+    id: 1677587796
